@@ -3,4 +3,4 @@ import pandas as pd
 import numpy as np
 
 
-st.title("Uber Pickups in NYC")
+st.title("Uber Pickups in NYC: ")
